@@ -28,9 +28,7 @@ Files may be saved in markdown or .txt format.
 
 I hope this is clear to all concerned.
 
-Thomas Moore 
-
-July 2019
+Thomas Moore \\ July 2019
 
 Healesville
 
